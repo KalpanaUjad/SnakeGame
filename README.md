@@ -1,5 +1,5 @@
 🎮 Live Demo
-👉 https://kalpanaujad.github.io/SnakeGame/
+👉 https: https://kalpanaujad.github.io/kanban-board/
 
 🚀 Features
 -Responsive grid-based game board (adjusts based on screen size)
